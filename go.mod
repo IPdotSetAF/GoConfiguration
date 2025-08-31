@@ -1,4 +1,4 @@
-module github.com/IPdotSetAF/GoConfiguration
+module github.com/IPdotSetAF/go-configuration
 
 go 1.23.0
 
